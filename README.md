@@ -1,2 +1,25 @@
-# FilePacker_UnPacker
-A Java project to pack multiple files into a single file and unpack them back to their original form.
+FilePacker_UnPacker
+
+Pack and unpack files easily with a simple Java GUI.
+
+Features:
+
+Pack multiple files into one.
+
+Unpack files to original format.
+
+User-friendly GUI.
+
+Requirements:
+
+Java JDK 8 or above.
+
+How to Run:
+
+javac *.java
+java FilePackerGUI
+
+
+Note:
+
+Only source .java files included; .class files are ignored.
